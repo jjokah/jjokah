@@ -1,8 +1,8 @@
-### JJ𝚯KAH
+### This is JJ𝚯KAH
 
 John Johnson Okah is a Story and Software Engineer dedicated to creating value for humanity.
 
-John has a passion for AI and is convinced that “**there is an algorithm for everything under heaven**”. He is also a creative Raconteur in the digitalspace; skilled at communicating ideas with compelling narratives. This is why the curious mind is currently on a mission to discover the algorithm for storytelling.
+John has a strong passion for solving computational problems and working with AI. He firmly believes in that “**there is an algorithm for everything under heaven**”. He is also a creative digital Raconteur, skilled at communicating ideas with compelling narratives. This is why the curious mind is currently on a mission to discover the algorithm for storytelling.
 
 
 **SKILLS**
@@ -10,4 +10,4 @@ John has a passion for AI and is convinced that “**there is an algorithm for e
 - 🌐 Web Development
 - 🤖 Machine Learning
 - 🎨 Design
-- ✍️ Storyelling
+- ✍️ Storytelling
