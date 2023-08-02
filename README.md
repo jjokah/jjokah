@@ -7,7 +7,7 @@ John has a passion for AI and is convinced that “**there is an algorithm for e
 
 **SKILLS**
 
-🌐 Web Development
-🤖 Machine Learning
-🎨 Design
-✍️ Storyelling
+- 🌐 Web Development
+- 🤖 Machine Learning
+- 🎨 Design
+- ✍️ Storyelling
