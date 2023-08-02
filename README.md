@@ -1,16 +1,13 @@
-### Hi there 👋
+### JJ𝚯KAH
 
-<!--
-**jjokah/jjokah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+John Johnson Okah is a Story and Software Engineer dedicated to creating value for humanity.
 
-Here are some ideas to get you started:
+John has a passion for AI and is convinced that “**there is an algorithm for everything under heaven**”. He is also a creative Raconteur in the digitalspace; skilled at communicating ideas with compelling narratives. This is why the curious mind is currently on a mission to discover the algorithm for storytelling.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**SKILLS**
+
+🌐 Web Development
+🤖 Machine Learning
+🎨 Design
+✍️ Storyelling
