@@ -1,13 +1,12 @@
 ### This is JJ𝚯KAH
 
-John Johnson Okah is a Story and Software Engineer dedicated to creating value for humanity.
+John Johnson Okah is an ML and Software Engineer dedicated to creating value for humanity.
 
-John has a strong passion for solving computational problems and working with AI. He firmly believes that “**there is an algorithm for everything under heaven**”. He is also a creative digital Raconteur, skilled at communicating ideas with compelling narratives. This is why the curious mind is currently on a mission to discover the algorithm for storytelling.
+John Johnson is a skilled programmer with a passion for solving computational problems and a keen interest in machine learning. He is proficient in Python and leverages his skills to build web applications using Django. John continuously seeks to expand his knowledge of emerging technologies to tackle new challenges.
 
 
 **SKILLS**
 
-- 🌐 Web Development
-- 🤖 Machine Learning
-- 🎨 Design
+- 🌐 Web Development (Django)
+- 🤖 Machine Learning (Python)
 - ✍️ Storytelling
