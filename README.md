@@ -9,4 +9,4 @@ John Johnson is a skilled programmer with a passion for solving computational pr
 
 - 🌐 Web Development (Django)
 - 🤖 Machine Learning (Python)
-- ✍️ Storytelling
+- ✍️ Technical Writing (Article)
