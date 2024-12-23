@@ -8,5 +8,5 @@ John Johnson is a machine learning practitioner with a passion for solving compu
 **SKILLS**
 
 - 🌐 Web Development (Django)
-- 🤖 Machine Learning (Python)
-- ✍️ Technical Writing (Article)
+- 🤖 Machine Learning (NLP)
+- 🧠 Research (The Unconscious)
