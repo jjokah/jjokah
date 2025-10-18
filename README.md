@@ -10,3 +10,5 @@ John Johnson is a machine learning practitioner with a passion for solving compu
 - 🌐 Web Development (Django)
 - 🤖 Machine Learning (NLP)
 - 🧠 Research (The Unconscious)
+
+> There's an algorithm for everything ⇒ ∀ 𝑝∈𝑃, ∃ 𝑎∈𝐴 : 𝑎(𝑝) = solution(𝑝)
