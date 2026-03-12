@@ -1,6 +1,6 @@
 ### This is JJ𝚯KAH
 
-John Johnson Okah is an AI Engineer with a passion for solving computational problems. He is highly proficient in System Design, applying it extensively in Artificial Intelligence, Cybersecurity, and Software Development. Beyond engineering, John Johnson explores the human mind, particularly the workings of The Unconscious.
+JohnJohnson Okah is an AI Engineer with a passion for solving computational problems. He is highly proficient in System Design, applying it extensively in Artificial Intelligence, Cybersecurity, and Software Development. Beyond engineering, JohnJohnson explores the human mind, particularly the workings of The Unconscious.
 
 
 **SKILLS**
