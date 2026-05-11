@@ -41,23 +41,23 @@ Build the conceptual bedrock. Understand what AI is, how models work, where AI i
 ---
 
 ### Module 2: AI for Research
-Master the skills that unlock everything else: prompting, research, brainstorming, data analysis, and evaluating outputs critically.
+Master the skills that unlock everything else: prompting, research, brainstorming, data analysis, evaluating outputs critically, and producing professional written content with AI.
 
 1. [AI Research Fundamentals](module-2-ai-for-research/ai-research-fundamentals.md)
 2. [Prompt Engineering: Beginner to Advanced](module-2-ai-for-research/prompt-engineering.md)
 3. [Brainstorming and Ideation with AI](module-2-ai-for-research/brainstorming-and-ideation.md)
 4. [Data Analysis with AI](module-2-ai-for-research/data-analysis-with-ai.md)
 5. [Evaluating and Debugging AI Outputs](module-2-ai-for-research/evaluating-ai-outputs.md)
+6. [AI Writing and Text Generation](module-2-ai-for-research/ai-writing-and-text.md)
 
 ---
 
 ### Module 3: AI for Content Creation
-Create professional-grade written, visual, audio, and video content using the AI tools available today.
+Create professional-grade visual, audio, and video content using the AI tools available today, including a comprehensive NightCafe platform guide for image and video creation.
 
-1. [AI Writing and Text Generation](module-3-ai-content-creation/ai-writing-and-text.md)
-2. [AI Image Generation](module-3-ai-content-creation/ai-image-generation.md)
-3. [AI Audio and Voice](module-3-ai-content-creation/ai-audio-and-voice.md)
-4. [AI Video Generation](module-3-ai-content-creation/ai-video-generation.md)
+1. [AI Image Generation](module-3-ai-content-creation/ai-image-generation.md)
+2. [AI Audio Generation](module-3-ai-content-creation/ai-audio-generation.md)
+3. [AI Video Generation](module-3-ai-content-creation/ai-video-generation.md)
 
 ---
 
